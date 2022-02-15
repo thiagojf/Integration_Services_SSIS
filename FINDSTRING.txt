@@ -1,1 +1,0 @@
-(FINDSTRING( SEXO, "M", 1 ) != 0) ? "MASCULINO" : "FEMININO"
